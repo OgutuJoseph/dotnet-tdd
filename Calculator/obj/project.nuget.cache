@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0VwkbeZ8mPJQR6+GlQg0SZIri64AU1XE9dPo13ZHnphbA25svnkL1UKAFYeE9+dPnLQebhqmW87trDfb4JArQ==",
+  "dgSpecHash": "QjFxBlukZ8RpuVICf27bLvm8McsmIr9EgO1GsmKyYX4Q7rpUkZkUGZzb/rRFUgzZiLFl2JHyspz2UkoG2XZAtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\CalculatorTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\AB030WP\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\AB030WP\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
