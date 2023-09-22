@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\CalculatorTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\CalculatorTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\Calculator.csproj",
-        "projectName": "Calculator",
-        "projectPath": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\CalculatorTest.csproj",
+        "projectName": "CalculatorTest",
+        "projectPath": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\CalculatorTest.csproj",
         "packagesPath": "C:\\Users\\AB030WP\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\AB030WP\\OneDrive - Absa\\OgutuJoseph\\Projects\\C#\\dotnet-tdd\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
