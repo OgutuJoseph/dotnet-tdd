@@ -1,0 +1,22 @@
+Module 1 - Introduction to Unit Testing
+
+• What to learn
+    - Manual vs Automated Testing
+    - Setting up Test Projects
+    - Test First Development
+    - Given, When, Then Pattern
+    - Red, Green, Refactor Pattern
+    - Tests Trustworthiness
+    - Devil's Advocate Technique
+    - Parameterized Tests
+    - Discovering Alternative Paths
+
+• Chapter One
+    - Manual Testing
+    - Creating a Test Project
+    - Writing Your First Automated Test
+    - Test First Development
+    - Writing Good Assertion Messages
+        -> Assertion Identifies Message
+        -> Argument Describing Message
+    - Fluent Assertion
