@@ -1,0 +1,7 @@
+Module 3 - Refactoring and adding domain project
+
+• Creating a project for the test project  
+    -> Right click solution >> Add Project
+    -> Template ::  Class Library
+    -> Project Name :: Domain (Domain means inside of the domain layer you can find the actual logic)
+    -> Framework :: .NET 6.0
