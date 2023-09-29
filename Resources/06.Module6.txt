@@ -1,5 +1,0 @@
-Module 6 - Assertion Message
-
-• Adding Fluent Assertions Nuget Package (To get rid of 'if' statements)
-    --> From Nuget Packet Manager
-        -> FluentAssertions [version 7.0.0] >> inside 'CalculatorTest' project

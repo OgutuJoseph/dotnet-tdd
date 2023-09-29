@@ -1,7 +1,0 @@
-Module 4 - Adding Web API Project
-
-• Creating a project for the test project  
-    -> Right click solution >> Add Project
-    -> Template ::  ASSP.NET Core Web API
-    -> Project Name :: Web
-    -> Framework :: .NET 6.0
